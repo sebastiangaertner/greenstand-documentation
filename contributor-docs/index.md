@@ -6,7 +6,7 @@ to help those contributing to Treetracker software.</p>
 
 <p><b>Libraries</b>: 
 <p class='list'>
-<a href='https://github.com/Greenstand'>Repositories</a>: </b>Greenstand organizes and publishes its open-source Treetracker software platform in multiple github repositories, most of them public.</p>
+<a href='https://github.com/Greenstand'>Repositories</a>: </b>Greenstand organizes and publishes its open-source Treetracker software platform in multiple github repositories, most of them become public.</p>
 <p class='list'>
 <a href='https://app.gitbook.com/@greenstand/spaces'>Greenstand Team Library</a> Inside information for volunteers and staff, by invitation only.</p>
 
